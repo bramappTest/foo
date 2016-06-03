@@ -1,0 +1,9 @@
+id,name,description,type,url,tenantName,user,password
+1,Test BICS Bridge,Bridge to Load data into the Database of BICS,bics,bics-qubix-test.analytics.em2.oraclecloud.com,qubix-test,info@mail.com,2177da8f8cd34560
+2,PBCS Bridge,Bridge to Load data and metadata into the PBCS application,pbcs,https://qubixpbcs-qubixoraclecloud.pbcs.us2.oraclecloud.com,qubixoraclecloud,info@mail.com,2177da8f8cd34560
+3,EPRCS Bridge,Bridge to Load data into the application part of EPRCS,eprcs,eprcs-qubixuk.epm.em2.oraclecloud.com/epm,qubixoraclecloud,info@mail.com,2177da8f8cd34560
+4,FCCS Bridge,Financial Close and Consolidation Cloud Service Bridge,fccs,fccs-qubixuk.epm.em2.oraclecloud.com/epm,qubixuk,info@mail.com,2177da8f8cd34560
+5,Production BICS Bridge,Bridge to Load data into the Database of BICS,bics,bics-qubix.analytics.em2.oraclecloud.com,qubix-test,info@mail.com,2177da8f8cd34560
+6,Test PBCS Bridge,Bridge to Load data and metadata into the PBCS application,pbcs,https://qubixpbcs-qubixoraclecloudtest.pbcs.us2.oraclecloud.com,qubixoraclecloudtest,info@mail.com,2177da8f8cd34560
+7,Test EPRCS Bridge,Bridge to Load data into the application part of the Test EPRCS instance,eprcs,eprcs-qubixuk-test.epm.em2.oraclecloud.com/epm,qubixuk-test,info@mail.com,2177da8f8cd34560
+8,Test FCCS Bridge,Financial Close and Consolidation Cloud Service Test Bridge,fccs,fccs-qubixuk-test.epm.em2.oraclecloud.com/epm,qubixuk-test,info@mail.com,2177da8f8cd34560

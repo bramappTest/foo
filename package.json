@@ -1,0 +1,21 @@
+{
+  "name": "qubix",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "qubixApi",
+  "scripts": {
+    "test": "mocha ./test/test.js -w"
+  },
+  "author": "Tomaz",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4"
+  },
+  "devDependencies": {
+    "chai": "3.5.0",
+    "chai-http": "2.0.1",
+    "chai-json-schema": "1.2.0",
+    "mocha": "2.4.5"
+  }
+}
